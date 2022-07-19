@@ -61,6 +61,7 @@ body {
 }
 .site-nav .link.current {
   color: var(--accent-color);
+  color: tomato;
 }
 .visually-hidden {
   position: absolute;
